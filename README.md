@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
@@ -236,3 +237,6 @@ You can see code coverage output under the `tests/_output` directory.
 # sipaxbbvet
 Sistem Pakar Pemrograman Web Menggunakan Yii Framework
 >>>>>>> a190cbc9caac8b11547e784223687d5134aba93b
+=======
+# sipaxbbvet
+>>>>>>> 998eb7704a73ea469a077dbf18033175c8572e12
